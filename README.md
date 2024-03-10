@@ -1,6 +1,6 @@
 # Hi, I'm Subham!
 
-I'm a seasoned professional with a diverse and dynamic background of over 4 years in technology, analytics, and product management with renowned companies such as Paytm, Indegene and Cognizant primarily in healthcare and fintech domains. Over the course of my career, I have demonstrated a consistent ability to conceptualize and develop products from inception, taking full ownership of the end-to-end product lifecycle. My proficiency also extends to leveraging data analytics to drive strategic decision-making and deliver unparalleled user experiences.
+I'm a seasoned professional with a diverse and dynamic background of over 5 years in technology, analytics, and product management with renowned companies such as Paytm, Indegene and Cognizant primarily in healthcare and fintech domains. Over the course of my career, I have demonstrated a consistent ability to conceptualize and develop products from inception, taking full ownership of the end-to-end product lifecycle. My proficiency also extends to leveraging data analytics to drive strategic decision-making and deliver unparalleled user experiences.
 
 At Paytm, my role involves diving deep into data to understand user behavior and preferences, enabling us to refine and optimize our product offerings. I played a pivotal role in designing strategies for the Refunds and Cards team, focusing on improving user experiences, enhancing security measures, and ensuring seamless refund processes.
 
