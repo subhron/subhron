@@ -10,4 +10,4 @@ I hold a Bachelor's degree in Computer Science and am currently pursuing a Maste
 
 I'm passionate about leveraging technology to drive business growth and improve processes. Let's connect and explore how we can collaborate to achieve our professional goals.
 
-Please feel free to get in touch with me via email at subhamch@buffalo.edu.
+Please feel free to get in touch with me via email at subhamchowdhury17@gmail.com.
